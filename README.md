@@ -1,3 +1,3 @@
 # Infinity-js
-Wonderful Information Here 
+Wonderful Information 
 Share your knowledge here...
